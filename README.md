@@ -1,61 +1,61 @@
-GRC Security Policy Project
+# GRC Security Portfolio — Fintech Compliance to Cybersecurity
 
-Author: Anna Marie
-Framework: NIST SP 800-61r2 (Incident Response Lifecycle)
+**Author:** Anna Marie Torres
 
+**Location:** Houston, TX
 
-Overview
+**Background:** 4 years Block Inc — Cash App & Square Banking
 
-This project simulates a security policy framework for a fintech organization, focusing on incident response readiness, acceptable use controls, and compliance-aligned security practices.
+**Currently:** CompTIA Security+ in progress
 
-The documentation reflects real-world Governance, Risk, and Compliance (GRC) processes used in regulated financial environments.
+**Contact:** linkedin.com/in/annamarie322
 
+---
 
-Documents Included
+## Why This Portfolio Exists
 
-Incident Response Policy v1.0
+Most GRC candidates can list frameworks.
+I can show you how compliance decisions actually get made
+inside a high volume fintech environment.
 
-Acceptable Use Policy v1.0
+After 4 years at Block Inc reviewing 25+ cases daily
+across Cash App fraud investigation and Square Banking
+KYC/CIP operations — I have seen what happens when
+controls fail in real regulated environments.
 
+This portfolio translates that real world experience
+into documented GRC judgment.
 
-Scope
+---
 
-This project applies to a simulated fintech environment handling:
+## What Organizations Actually Need
 
-Customer identity data
-Payment and transaction systems
-Internal employee system access
+- People who can interpret regulatory requirements
+- Professionals who balance competing priorities
+- Analysts who can defend decisions when challenged
+- Someone who has already worked inside compliance systems
 
+---
 
-Key Security Areas Covered
+## What This Portfolio Demonstrates
 
-Incident detection and classification
-Incident escalation procedures
-Identity verification (KYC/CIP concepts)
-Fraud detection and reporting workflows
-Employee acceptable use guidelines
+- Understanding of WHY controls exist — not just what they are
+- Judgment about when controls matter and when they don't
+- Ability to translate technical findings for stakeholders
+- Real fintech compliance experience informing every decision
 
+---
 
-Framework Alignment
+## Portfolio Projects
 
-This project is aligned with:
+| # | Project | Framework | Core Skill Demonstrated |
+|---|---------|-----------|------------------------|
+| 01 | Incident Response Policy | NIST SP 800-61r2 | Tier based incident classification from real fintech experience |
+| 02 | Acceptable Use Policy | NIST SP 800-53 | KYC/CIP compliance controls in fintech environments |
 
-NIST SP 800-61r2 (Incident Response)
-Core GRC principles:
-Risk identification
-Incident lifecycle management
-Security control enforcement
+## Coming Soon
 
-
-Skills Demonstrated
-
-Incident response planning and documentation
-Risk identification and classification
-Fraud escalation workflows
-KYC / CIP compliance understanding
-Security policy writing for regulated environments
-
-
-Business Context
-
-This project simulates a high-volume fintech environment where security incidents must be identified, escalated, and resolved efficiently while maintaining regulatory compliance and minimizing operational risk.
+| # | Project | Framework | Core Skill Demonstrated |
+|---|---------|-----------|------------------------|
+| 03 | Phishing Email Analysis | Threat Intelligence | Fraud pattern recognition from Cash App experience |
+| 04 | Fintech GRC Compliance Assessment | NIST SP 800-53 | Risk identification and control gap analysis |
