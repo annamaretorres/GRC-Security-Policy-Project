@@ -59,3 +59,41 @@ into documented GRC judgment.
 |---|---------|-----------|------------------------|
 | 03 | Phishing Email Analysis | Threat Intelligence | Fraud pattern recognition from Cash App experience |
 | 04 | Fintech GRC Compliance Assessment | NIST SP 800-53 | Risk identification and control gap analysis |
+
+---
+
+## My Real World GRC Experience
+
+At Block Inc I was already doing GRC work without the title:
+
+| What I Did at Block | GRC Translation |
+|---------------------|-----------------|
+| Tier 1-2-3 complaint classification | Incident severity classification |
+| Legal escalation decisions | Risk based escalation procedures |
+| KYC/CIP identity verification | Access control and identity management |
+| EIN DOB SSN mismatch investigation | Control gap identification |
+| SBA PPP loan compliance | Regulatory framework adherence |
+| Salesforce and Jira documentation | GRC tool proficiency |
+| 500-600 complaints monthly | High volume compliance operations |
+
+---
+
+## How to Navigate This Portfolio
+
+- Start with Project 01 — Incident Response Policy
+- Read each project README for context
+- Review the analysis and decisions made
+- Note how real fintech experience informs each decision
+
+---
+
+## Author Note
+
+These projects are not academic exercises.
+They are built on the same judgment I used
+reviewing 25+ cases daily at one of the most
+scrutinized fintech companies in the US.
+
+I am now formalizing that experience with
+CompTIA Security+ and structured GRC documentation
+to transition fully into cybersecurity and compliance roles.
