@@ -14,14 +14,9 @@
 
 ## Why This Portfolio Exists
 
-Most GRC candidates can list frameworks.
-I can show you how compliance decisions actually get made
-inside a high volume fintech environment.
+This portfolio documents how my 4 years of fintech operations experience at Block Inc maps to Governance, Risk, and Compliance (GRC) concepts in cybersecurity.
 
-After 4 years at Block Inc reviewing 25+ cases daily
-across Cash App fraud investigation and Square Banking
-KYC/CIP operations — I have seen what happens when
-controls fail in real regulated environments.
+I worked in high-volume customer and payment operations involving fraud review, identity verification, and regulatory compliance workflows. This experience provides a foundation for transitioning into formal GRC and cybersecurity roles.
 
 This portfolio translates that real world experience
 into documented GRC judgment.
