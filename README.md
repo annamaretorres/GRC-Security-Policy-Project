@@ -50,7 +50,7 @@ into documented GRC judgment.
 
 | # | Project | Framework | Core Skill Demonstrated |
 |---|---------|-----------|------------------------|
-| 01 | [Incident Response Policy](https://github.com/annamaretorres/GRC-Security-Policy-Project/blob/main/Incident-Response-Policy-v1.0.pdf) | NIST SP 800-61r2 | Tier based incident classification from real fintech experience |
+| 01 | [Incident Response Policy]( https://github.com/annamaretorres/GRC-Security-Policy-Project/blob/main/Incident-Response-Policy-v1.0.pdf ) | NIST SP 800-61r2 | Tier based incident classification from real fintech experience |
 | 02 | [Acceptable Use Policy](https://github.com/annamaretorres/GRC-Security-Policy-Project/blob/main/Acceptable%20Use%20Policy%20v1.0.pdf) | NIST SP 800-53 | KYC/CIP compliance controls in fintech environments |
 
 ## Coming Soon
