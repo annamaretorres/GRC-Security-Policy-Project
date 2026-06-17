@@ -81,8 +81,10 @@ At Block Inc I was already doing GRC work without the title:
 
 These projects are not academic exercises.
 They are built on the same judgment I used
-reviewing 25+ cases daily at one of the most
-scrutinized fintech companies in the US.
+reviewing 25+ cases daily at Block Inc — a fintech 
+company regulated under FCRA, processing hundreds 
+of thousands of customer accounts across Cash App 
+and Square Banking.
 
 I am now formalizing that experience with
 CompTIA Security+ and structured GRC documentation
