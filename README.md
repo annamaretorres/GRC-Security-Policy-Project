@@ -1,4 +1,4 @@
-# GRC Security Portfolio — Fintech Compliance to Cybersecurity
+# Fintech Compliance & Operations — GRC Transition Portfolio
 
 **Author:** Anna Marie Torres
 
