@@ -14,12 +14,20 @@
 
 ## Why This Portfolio Exists
 
-This portfolio documents how my 4 years of fintech operations experience at Block Inc maps to Governance, Risk, and Compliance (GRC) concepts in cybersecurity.
+Most GRC candidates can list frameworks. I can show you 
+how compliance decisions get made in a regulated fintech 
+environment — specifically how a Tier 1 FCRA dispute 
+triggers a different response than a Tier 3 policy violation, 
+and why that distinction matters legally.
 
-I worked in high-volume customer and payment operations involving fraud review, identity verification, and regulatory compliance workflows. This experience provides a foundation for transitioning into formal GRC and cybersecurity roles.
+After 4 years at Block Inc reviewing 25+ cases daily across 
+Cash App fraud investigation and Square Banking KYC/CIP 
+operations — I have seen what happens when controls fail 
+in real regulated environments under FCRA oversight.
 
-This portfolio translates that real world experience
-into documented GRC judgment.
+This portfolio translates that operational experience into 
+documented GRC judgment using NIST SP 800-61r2 and 
+NIST SP 800-53 as the foundational frameworks.
 
 ---
 
