@@ -48,12 +48,7 @@ into documented GRC judgment.
 | 01 | [Incident Response Policy](Incident-Response-Policy.md) | NIST SP 800-61r2 | Tier based incident classification from real fintech experience |
 | 02 | [Acceptable Use Policy](Acceptable-Use-Policy.md) | NIST SP 800-53 | KYC/CIP compliance controls in fintech environments |
 
-## Coming Soon
 
-| # | Project | Framework | Core Skill Demonstrated |
-|---|---------|-----------|------------------------|
-| 03 | Phishing Email Analysis | Threat Intelligence | Fraud pattern recognition from Cash App experience |
-| 04 | Fintech GRC Compliance Assessment | NIST SP 800-53 | Risk identification and control gap analysis |
 
 ---
 
